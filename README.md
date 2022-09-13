@@ -104,21 +104,17 @@ input_scaled=scaler.transform(input)
 ai_brain.predict(input_scaled)
 ```
 ## Dataset Information
-![image](https://user-images.githubusercontent.com/103049243/189943270-64ef2d8a-3e73-4c5d-aade-fab343a3a2c7.png)
-
+![image](https://user-images.githubusercontent.com/103049243/189944349-340dfee8-84d9-4510-b0f6-64d77e6be7d6.png)
 ## OUTPUT
 
 ### Training Loss Vs Iteration Plot
 
-![image](https://user-images.githubusercontent.com/103049243/189943374-d6165d2f-18fb-4ea1-a5a2-49d64f8605ef.png)
-
+![image](https://user-images.githubusercontent.com/103049243/189944507-9312dd44-2fb6-463a-bbf0-44ff868891e1.png)
 ### Test Data Root Mean Squared Error
 
-![image](https://user-images.githubusercontent.com/103049243/189943476-862a78ea-f5ee-4b83-b3fb-c9300838c9c9.png)
-
+![image](https://user-images.githubusercontent.com/103049243/189944455-6c9981c7-efab-486e-bca3-bf7fa074ab81.png)
 ### New Sample Data Prediction
 
-![image](https://user-images.githubusercontent.com/103049243/189943564-4611637a-bb0e-444d-ad32-62809ae1c873.png)
-
+![image](https://user-images.githubusercontent.com/103049243/189944603-01dab141-fda9-4497-b483-246bc0371d0f.png)
 ## RESULT
 Thus the Neural network for Regression model is Implemented successfully.
